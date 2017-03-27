@@ -4,4 +4,4 @@ Git has amutable index called stage.
 Git tracks changes.
 branch test
 creating a new vranch is quick and simple.
-
+add merge
