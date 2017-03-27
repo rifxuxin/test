@@ -3,4 +3,5 @@ Git is free software distrivuted under the GPL.
 Git has amutable index called stage.
 Git tracks changes.
 branch test
-creating anew vranch is quick & simple.
+creating a new vranch is quick and simple.
+
