@@ -1,0 +1,3 @@
+FROM hub.c.163.com/public/centos:7.2-tools
+RUN echo 123 > 123.log
+CMD /usr/sbin/sshd -D
